@@ -1,0 +1,8 @@
+@import '~@angular/cdk/overlay-prebuilt.css';
+// Global css (html, body, containers, font and etc..)
+@import "global/color";
+@import "global/global";
+@import "global/text";
+// regular style toast
+@import '~ngx-toastr/toastr';
+
